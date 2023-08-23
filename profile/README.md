@@ -46,10 +46,12 @@
 ## リポジトリ構成
 ```
 planetgroup
-├── docs
-│   └── README.md
 ├── data
 ├── module
+├── papers
+│   ├── README.md
+│   └── Tatsuuma_et_al_2023
+│       └── README.md
 ├── summerstudent2023
 ```
 
